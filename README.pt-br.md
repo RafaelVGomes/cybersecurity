@@ -26,8 +26,9 @@ Este repositório está organizado para destacar projetos concluídos durante mi
 
 Esta seção contém projetos e artefatos do programa de Certificação em Cibersegurança do Google, demonstrando habilidades fundamentais e avançadas em cibersegurança.
 
-* [Course 3: Assets, Threats, and Vulnerabilities (Ativos, Ameaças e Vulnerabilidades)](./01_google_cybersecurity_certificate/03_course_assets_threats_vulnerabilities/README.md)
-* [Course 6: Sound the Alarm: Detection and Response (Soe o Alarme: Detecção e Resposta)](./01_google_cybersecurity_certificate/06_course_detection_response/README.md)
+* [Course 2: Play it Safe: Manage Security Risks (Proteja-se: Gerencie os Riscos de Segurança)](./01_google_cybersecurity_certificate/02_play_it_safe_manage_security_risks/README.md) - Este curso aborda os fundamentos do gerenciamento de riscos de segurança.
+* [Course 3: Assets, Threats, and Vulnerabilities (Ativos, Ameaças e Vulnerabilidades)](./01_google_cybersecurity_certificate/03_assets_threats_vulnerabilities/README.md)
+* [Course 6: Sound the Alarm: Detection and Response (Soe o Alarme: Detecção e Resposta)](./01_google_cybersecurity_certificate/06_detection_response/README.md)
 
 ---
 
